@@ -11,7 +11,7 @@ En el momento actual, la aplicación trabaja con ficheros regulares, directorios
 
 Para más información acerca de [inserta_fichero](Documentos/) y [extrae_fichero](Documentos/) mirar la especificación de cada uno de ellos.
 
-Desarrollado por [Ian Fernandez](https://github.com/Ianfhca) e Iker Goñi. 
+Desarrollado por [Ian Fernandez](https://github.com/Ianfhca) e [Iker Goñi](https://github.com/Ikoi99). 
 
 2021.
 
